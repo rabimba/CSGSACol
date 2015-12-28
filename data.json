@@ -14,89 +14,78 @@
         },
         "date": [
             {
-                "startDate":"2015,2,14",
-                "headline":"My first experiment in time-lapse photography",
-                "text":"Nature at its finest in this video.",
+                "startDate":"2015,9,17",
+                "headline":"Computational Phylogenomics in the Light of Population Genetics",
+                "text":"Luay Nakleh",
                 "asset":
                 {
-                    "media":"http://vimeo.com/22439234",
+                    "media":"https://www.youtube.com/watch?v=6pGVnrU1HsI&index=3&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,5",
-                "headline":"Redesign of my portfolio",
-                "text":"",
+                "startDate":"2015,10,08",
+                "headline":"Pliny- Bridging Formal Methods and Data Science",
+                "text":"Swarat Chaudhury",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2015,7",
-                "headline":"Another time-lapse experiment",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://vimeo.com/23237102",
+                    "media":"https://www.youtube.com/watch?v=ViDM8_upZZQ&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=6",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
+                "startDate":"2015,10,15",
+                "headline":"Modern Tools for Data Science, Data Management, and Analytics",
+                "text":"Chris Jermaine",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/2559/screenshots/120088/shot_1298590416.jpg?1309796199",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
+                    "media":"https://www.youtube.com/watch?v=BP5uiP9aqOg&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=7",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,3",
-                "headline":"Logo Design for a pet shop",
-                "text":"",
+                "startDate":"2015,10,22",
+                "headline":"Security architectures for smartphones",
+                "text":"Dan Wallach",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/58661/screenshots/444003/pet___you.png?1330172683",
-                    "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
+                    "media":"https://www.youtube.com/watch?v=vcq-6FQ4POE&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=5",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
+                "startDate":"2015,10,29",
+                "headline":"How to save 10 mW in smartphones for free?",
+                "text":"Lin Zhong",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/14521/screenshots/228267/proto_v4_decoupe_2.png?1324546898",
-                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
+                    "media":"https://www.youtube.com/watch?v=nFqTcpoteTc&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=4",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
+                "startDate":"2015,11,12",
+                "headline":"High-performance Compilation through Domain-Specific Languages: the case of Image Processing Pipelines",
+                "text":"Uday Bondhugula",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/13307/screenshots/366400/chameleon.jpg?1328028363",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
+                    "media":"https://www.youtube.com/watch?v=k70cHPzR288&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=2",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2015,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
+                "startDate":"2015,11,15",
+                "headline":"Machine Learning over Massive Data Streams",
+                "text":"Anshumali Srivastava",
                 "asset":
                 {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "media":"https://www.youtube.com/watch?v=ok392LR3Yz4&list=PLyf9ivszA89P_22eyOT8zWkwQQ7NJLoHQ&index=1",
                     "credit":"",
                     "caption":""
                 }
